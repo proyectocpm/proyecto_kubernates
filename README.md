@@ -1,0 +1,2 @@
+# proyecto_kubernates
+fastapi
